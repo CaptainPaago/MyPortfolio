@@ -8,31 +8,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            Hi, I'm only interested in the <span className="purple">exceptional. </span>
+            You've figured I'm gently proud? My name is <span className="purple"> Dele Bliss Paago</span>
+            <br /> I'm the Business Development Manager at an Environmental Engineering company focused on
+            oil spill cleanup and remediation, procurement, waste management and high-tech solutions.  
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            When I'm not corralling clients and partners into the latest strategy guaranteed to make us both money
+            you'll find me writing or coding, two creative activities I deeply enjoy. When I get bored I travel, or flirt (each human is a fine universe, eh?),
+            read history or stumble into debates on +234 politics (Nigeria is God's favourite comedy channel). 
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from these, and the fine accompaniment of french wines and ogoni palm-wine, I dabble in:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Video Games or Chess
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Curating Eclectic Music Playlists
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Eating Gourmet (In Gokana, Dele means "Eat Good". Interpret that as "Commissioner of Enjoyment")
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            My Life Philosophy? "Life No Hard!" If you follow principles and know when to dump them{" "}
           </p>
           <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
