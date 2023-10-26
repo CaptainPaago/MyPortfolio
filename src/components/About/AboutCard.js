@@ -10,11 +10,17 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I'm only interested in the <span className="purple">exceptional. </span>
             You've figured I'm gently proud? My name is <span className="purple"> Dele Bliss Paago</span>
-            <br /> I'm the Business Development Manager at an Environmental Engineering company focused on
+            <br /> 
+            <br />
+            I'm the Business Development Manager at an Environmental Engineering company focused on
             oil spill cleanup and remediation, procurement, waste management and high-tech solutions.  
             <br />
+            <br />
             When I'm not corralling clients and partners into the latest strategy guaranteed to make us both money
-            you'll find me writing or coding, two creative activities I deeply enjoy. When I get bored I travel, or flirt (each human is a fine universe, eh?),
+            you'll find me writing or coding, two creative activities I deeply enjoy. 
+            <br />
+            <br />
+            When I get bored I travel, or flirt (each human is a fine universe, eh?),
             read history or stumble into debates on +234 politics (Nigeria is God's favourite comedy channel). 
             <br />
             <br />
@@ -33,9 +39,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            My Life Philosophy? "Life No Hard!" If you follow principles and know when to dump them{" "}
+            "Life No Hard!" If you follow principles and know when to dump them{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">CaptainDee</footer>
         </blockquote>
       </Card.Body>
     </Card>
