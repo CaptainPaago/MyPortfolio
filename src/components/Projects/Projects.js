@@ -39,7 +39,7 @@ function Projects() {
               title="Bits-0f-C0de"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink=<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcYChcBwfWUbQ3CDnTjWjnz%2FVitruvianSys%3Fnode-id%3D20964-9688%26starting-point-node-id%3D20964%253A9688%26mode%3Ddesign%26t%3DtQpBSBaHHsg199ih-1" allowfullscreen></iframe>
             />
           </Col>
 
