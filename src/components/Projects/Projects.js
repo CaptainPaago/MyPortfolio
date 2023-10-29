@@ -71,10 +71,11 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="AsoRace"
+              description="Text-based game on Nigerian politics along the lines of www.nationstates.net. 
+              Users acquire boys, reputation and money to work alongside allies, godfathers, unions and traditional institutions in a bid for the national presidency"
+              ghLink="https://github.com/captainpaago/AsoRace"
+              demoLink="https://www.aso-race.vercel.app" <--------Please include a demo link here
             />
           </Col>
 
@@ -85,7 +86,7 @@ function Projects() {
               title="CareSync"
               description="Medical records accessible from anywhere."
               ghLink="https://github.com/CaptainPaago/CareSync"
-              demoLink="https://caresync-v1.vercel.app/"     
+              demoLink="https://care-sync-v1.vercel.app/"     
             />
           </Col>
         </Row>
