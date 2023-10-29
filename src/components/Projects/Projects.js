@@ -75,7 +75,7 @@ function Projects() {
               description="Text-based game on Nigerian politics along the lines of www.nationstates.net. 
               Users acquire boys, reputation and money to work alongside allies, godfathers, unions and traditional institutions in a bid for the national presidency"
               ghLink="https://github.com/captainpaago/AsoRace"
-              demoLink="https://www.aso-race.vercel.app" <--------Please include a demo link here
+              demoLink="https://www.aso-race.vercel.app"
             />
           </Col>
 
