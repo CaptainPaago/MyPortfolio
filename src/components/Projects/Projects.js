@@ -85,7 +85,7 @@ function Projects() {
               title="CareSync"
               description="Medical records accessible from anywhere."
               ghLink="https://github.com/CaptainPaago/CareSync"
-              // demoLink="https://caresync-v1.vercel.app/"      <--------Please include a demo link here 
+              demoLink="https://caresync-v1.vercel.app/"     
             />
           </Col>
         </Row>
